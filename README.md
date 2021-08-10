@@ -1,4 +1,4 @@
 # python-dataprep
 Dataprep library for EZ EDA
 
-<img src='dataprep.png' width=800 />
+<img src='dataprep.PNG' width=800 />
